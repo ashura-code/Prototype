@@ -1,0 +1,12 @@
+timestamp,user_id,endpoint,method,status_code,request_id
+
+2025-04-13T12:00:00,user_1,/api/login,GET,200,req-118ab9fe
+2025-04-13T12:01:00,user_2,/api/data,GET,403,req-fc133d2e
+2025-04-13T12:02:00,user_3,/api/login,POST,201,req-7af7bf97
+2025-04-13T12:03:00,user_4,/api/login,GET,200,req-612e052f
+2025-04-13T12:04:00,user_5,/api/login,GET,201,req-a8ea25b5
+2025-04-13T12:05:00,user_6,/api/data,POST,500,req-3f4e1c2d
+2025-04-13T12:06:00,user_7,/api/data,GET,200,req-4b2e1c3f
+2025-04-13T12:07:00,user_8,/api/data,POST,403,req-2c3d4e5f
+2025-04-13T12:08:00,user_9,/api/login,GET,200,req-6d7e8f9a
+2025-04-13T12:09:00,user_10,/api/data,GET,200,req-1a2b3c4d
