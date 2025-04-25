@@ -1,0 +1,7 @@
+timestamp,function_name,duration_ms,status,request_id
+
+2025-04-13T12:00:00,auth_user,924,SUCCESS,req-118ab9fe
+2025-04-13T12:01:00,auth_user,476,SUCCESS,req-fc133d2e
+2025-04-13T12:02:00,get_data,218,SUCCESS,req-7af7bf97
+2025-04-13T12:03:00,auth_user,914,FAILED,req-612e052f
+2025-04-13T12:04:00,get_data,792,SUCCESS,req-a8ea25b5
